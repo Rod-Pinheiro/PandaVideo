@@ -1,0 +1,324 @@
+{
+  "folders": [
+    {
+      "id": "4573e1c1-6a97-47c7-9f49-25019ca60ea9",
+      "name": "0 a 3 meses",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "8abc1582-5259-4ee3-9e33-8212a63e3287",
+      "status": true,
+      "created_at": "2022-01-05T18:50:44.000Z",
+      "updated_at": "2022-02-15T20:56:28.000Z",
+      "videos_count": "73"
+    },
+    {
+      "id": "13a39279-b7c1-4362-8f0e-813196998fd7",
+      "name": "0 A 3 MESES",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "79a8f7c6-4fbe-416c-982f-7c762741a24c",
+      "status": true,
+      "created_at": "2022-02-16T00:47:07.000Z",
+      "updated_at": "2022-02-16T00:47:07.000Z",
+      "videos_count": "65"
+    },
+    {
+      "id": "ad0da901-095b-4166-ba6d-f44f10172e22",
+      "name": "13 a 36 meses",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "8abc1582-5259-4ee3-9e33-8212a63e3287",
+      "status": true,
+      "created_at": "2022-01-05T18:51:03.000Z",
+      "updated_at": "2022-02-15T20:56:27.000Z",
+      "videos_count": "41"
+    },
+    {
+      "id": "6902bd2e-501f-4d94-8601-5ee2510ffe09",
+      "name": "13 A 36 MESES",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "79a8f7c6-4fbe-416c-982f-7c762741a24c",
+      "status": true,
+      "created_at": "2022-02-17T06:17:18.000Z",
+      "updated_at": "2022-02-17T06:17:18.000Z",
+      "videos_count": "41"
+    },
+    {
+      "id": "44024226-5764-4843-b5d9-65ae187e1cd4",
+      "name": "4 a 6 meses",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "8abc1582-5259-4ee3-9e33-8212a63e3287",
+      "status": true,
+      "created_at": "2022-01-05T18:50:49.000Z",
+      "updated_at": "2022-02-15T20:56:25.000Z",
+      "videos_count": "45"
+    },
+    {
+      "id": "59d9c37f-aab2-45b6-bdd3-293f7590d668",
+      "name": "4 A 6 MESES",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "79a8f7c6-4fbe-416c-982f-7c762741a24c",
+      "status": true,
+      "created_at": "2022-02-17T03:30:11.000Z",
+      "updated_at": "2022-02-17T03:30:11.000Z",
+      "videos_count": "43"
+    },
+    {
+      "id": "d120a2fa-1865-444e-af80-4fcba8e9a878",
+      "name": "7 a 12 meses",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "8abc1582-5259-4ee3-9e33-8212a63e3287",
+      "status": true,
+      "created_at": "2022-01-05T18:50:55.000Z",
+      "updated_at": "2022-02-15T20:56:25.000Z",
+      "videos_count": "43"
+    },
+    {
+      "id": "d1c35354-0c21-4d8f-907c-ab6d9f75fd30",
+      "name": "7 A 12 MESES",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "79a8f7c6-4fbe-416c-982f-7c762741a24c",
+      "status": true,
+      "created_at": "2022-02-17T06:07:06.000Z",
+      "updated_at": "2022-02-17T06:07:06.000Z",
+      "videos_count": "41"
+    },
+    {
+      "id": "5b745655-e013-4d19-b740-42368f4de08b",
+      "name": "Amamentação",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "8abc1582-5259-4ee3-9e33-8212a63e3287",
+      "status": true,
+      "created_at": "2022-01-05T18:51:16.000Z",
+      "updated_at": "2022-02-15T20:56:24.000Z",
+      "videos_count": "23"
+    },
+    {
+      "id": "8abc1582-5259-4ee3-9e33-8212a63e3287",
+      "name": "Aulas Antigas",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-02-15T20:56:10.000Z",
+      "updated_at": "2022-02-15T20:56:10.000Z",
+      "videos_count": "1"
+    },
+    {
+      "id": "7c96f2e9-0d1f-408d-b1b4-1f5228ce2769",
+      "name": "Aulas Rede de Apoio",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-09-09T17:47:55.000Z",
+      "updated_at": "2022-09-09T17:47:55.000Z",
+      "videos_count": "4"
+    },
+    {
+      "id": "79a8f7c6-4fbe-416c-982f-7c762741a24c",
+      "name": "Aulas Reeditadas",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-02-15T20:56:36.000Z",
+      "updated_at": "2022-02-15T20:56:36.000Z",
+      "videos_count": "0"
+    },
+    {
+      "id": "4765f063-2c5a-46d0-bb54-fbe97bae83a7",
+      "name": "BBB Miguel",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-05-06T15:49:39.000Z",
+      "updated_at": "2022-05-06T15:49:39.000Z",
+      "videos_count": "0"
+    },
+    {
+      "id": "a1bbe859-bf8d-47bf-9d3f-def7cc6ec657",
+      "name": "FAQ",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "59d9c37f-aab2-45b6-bdd3-293f7590d668",
+      "status": true,
+      "created_at": "2022-04-12T13:31:43.000Z",
+      "updated_at": "2022-04-12T13:31:43.000Z",
+      "videos_count": "45"
+    },
+    {
+      "id": "b7a8c0c1-1838-4119-8080-60a88b6d42ea",
+      "name": "FAQ",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "13a39279-b7c1-4362-8f0e-813196998fd7",
+      "status": true,
+      "created_at": "2022-04-12T13:31:28.000Z",
+      "updated_at": "2022-04-12T13:31:28.000Z",
+      "videos_count": "58"
+    },
+    {
+      "id": "ba808cce-86dd-4605-8988-3a98c30a1094",
+      "name": "FAQ",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "6902bd2e-501f-4d94-8601-5ee2510ffe09",
+      "status": true,
+      "created_at": "2022-04-12T13:31:36.000Z",
+      "updated_at": "2022-04-12T13:31:36.000Z",
+      "videos_count": "8"
+    },
+    {
+      "id": "fbe77a0a-029e-427f-8798-afabd35fb541",
+      "name": "FAQ",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "d1c35354-0c21-4d8f-907c-ab6d9f75fd30",
+      "status": true,
+      "created_at": "2022-04-12T13:31:51.000Z",
+      "updated_at": "2022-04-12T13:31:51.000Z",
+      "videos_count": "14"
+    },
+    {
+      "id": "b1a96836-3264-4c63-a7c0-d02fdfd85ca8",
+      "name": "Introdução",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "8abc1582-5259-4ee3-9e33-8212a63e3287",
+      "status": true,
+      "created_at": "2022-01-05T18:50:19.000Z",
+      "updated_at": "2022-02-15T20:56:23.000Z",
+      "videos_count": "16"
+    },
+    {
+      "id": "171a037b-06e8-4262-bec2-b8eea0dd50e8",
+      "name": "Introdução Alimentar",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "8abc1582-5259-4ee3-9e33-8212a63e3287",
+      "status": true,
+      "created_at": "2022-01-05T18:51:10.000Z",
+      "updated_at": "2022-02-15T20:56:22.000Z",
+      "videos_count": "3"
+    },
+    {
+      "id": "ecfabeae-6b2c-4825-8c7b-1b0d2e1e7148",
+      "name": "Lives de Pré Lançamento",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-07-12T13:49:05.000Z",
+      "updated_at": "2022-07-12T13:49:05.000Z",
+      "videos_count": "0"
+    },
+    {
+      "id": "9ed19135-c7ef-4f7c-b63f-7940f64d073c",
+      "name": "LM.ANIV | 2022",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "ecfabeae-6b2c-4825-8c7b-1b0d2e1e7148",
+      "status": true,
+      "created_at": "2022-07-12T13:49:29.000Z",
+      "updated_at": "2022-07-12T13:49:29.000Z",
+      "videos_count": "3"
+    },
+    {
+      "id": "ff3dc22f-5375-447e-8892-f4921b70d125",
+      "name": "Mentoria Lourdes Corsi",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-10-12T19:10:37.000Z",
+      "updated_at": "2022-10-12T19:10:37.000Z",
+      "videos_count": "1"
+    },
+    {
+      "id": "3687a94e-c848-4f1a-9cbb-f7ef0078f2fb",
+      "name": "Módulo 1 - A Tentativa (Dr. Matheus Galhardo)",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "beb67d57-4514-4258-8026-c525b7868d6d",
+      "status": true,
+      "created_at": "2022-03-03T18:22:32.000Z",
+      "updated_at": "2022-03-04T13:30:06.000Z",
+      "videos_count": "5"
+    },
+    {
+      "id": "245f7902-5d12-43e0-9829-94dc8cd42357",
+      "name": "Módulo 2 - Positivo!",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "beb67d57-4514-4258-8026-c525b7868d6d",
+      "status": true,
+      "created_at": "2022-03-05T19:35:12.000Z",
+      "updated_at": "2022-03-05T19:35:12.000Z",
+      "videos_count": "8"
+    },
+    {
+      "id": "f58fb233-cd75-4b49-a6ae-0dd2b348c204",
+      "name": "Módulo 3 - Gravidez mês a mês",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "beb67d57-4514-4258-8026-c525b7868d6d",
+      "status": true,
+      "created_at": "2022-03-10T15:06:47.000Z",
+      "updated_at": "2022-03-10T15:06:47.000Z",
+      "videos_count": "5"
+    },
+    {
+      "id": "6cd6428d-de00-4cf0-99e1-0b9f0b0d1211",
+      "name": "Módulo 4 - Preparativos",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "beb67d57-4514-4258-8026-c525b7868d6d",
+      "status": true,
+      "created_at": "2022-03-18T15:49:21.000Z",
+      "updated_at": "2022-03-18T15:49:21.000Z",
+      "videos_count": "11"
+    },
+    {
+      "id": "05dd61d1-681b-4a89-bd99-f89dc4c573f3",
+      "name": "Módulo 5 - O puerpério",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "beb67d57-4514-4258-8026-c525b7868d6d",
+      "status": true,
+      "created_at": "2022-03-25T17:30:41.000Z",
+      "updated_at": "2022-03-25T17:30:41.000Z",
+      "videos_count": "5"
+    },
+    {
+      "id": "6cc8022a-cebb-46c3-bde4-858c2e489ef9",
+      "name": "Módulo Extra - Fisioterapeuta",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "beb67d57-4514-4258-8026-c525b7868d6d",
+      "status": true,
+      "created_at": "2022-04-04T15:30:39.000Z",
+      "updated_at": "2022-04-04T15:30:39.000Z",
+      "videos_count": "1"
+    },
+    {
+      "id": "a914adea-25de-4084-9be6-ccbf98407b7e",
+      "name": "MÓDULOS GERAIS",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": "79a8f7c6-4fbe-416c-982f-7c762741a24c",
+      "status": true,
+      "created_at": "2022-02-16T00:39:06.000Z",
+      "updated_at": "2022-02-16T00:39:06.000Z",
+      "videos_count": "16"
+    },
+    {
+      "id": "beb67d57-4514-4258-8026-c525b7868d6d",
+      "name": "Nasce uma Mãe",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-03-03T18:22:15.000Z",
+      "updated_at": "2022-03-03T18:22:15.000Z",
+      "videos_count": "1"
+    },
+    {
+      "id": "50eb6d78-90f0-43f9-9f51-2f3ee96341a6",
+      "name": "Tutoriais",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-08-02T12:05:14.000Z",
+      "updated_at": "2022-08-02T12:05:14.000Z",
+      "videos_count": "1"
+    },
+    {
+      "id": "6a6e0f67-1123-49a7-a5e9-e168f8cdfa26",
+      "name": "Webnários - Reforço de conteúdo",
+      "user_id": "48de9fc0-1cf6-41dc-ae87-990bdcf2adb4",
+      "parent_folder_id": null,
+      "status": true,
+      "created_at": "2022-03-25T16:30:00.000Z",
+      "updated_at": "2022-03-25T16:30:00.000Z",
+      "videos_count": "6"
+    }
+  ]
+}
